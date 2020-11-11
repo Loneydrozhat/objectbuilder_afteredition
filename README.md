@@ -23,4 +23,4 @@ Follow this tutorial:
 
 Supported By:
 ----
-[![Xtibia](https://xtibia.com/forum/uploads/monthly_2020_09/forum_logo.png.8eb8e91f2d964610995546c79457305e.png)](https://otpokemon.com/)
+[![Xtibia](https://xtibia.com/forum/uploads/monthly_2020_09/forum_logo.png.8eb8e91f2d964610995546c79457305e.png)](https://xtibia.com/)
