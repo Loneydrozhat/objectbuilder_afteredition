@@ -21,6 +21,8 @@ Follow this tutorial:
 [Compiling](https://github.com/ottools/ObjectBuilder/wiki/Compiling)
 
 
-Supported By:
+Supported By: 
+NONE
 ----
-[![Xtibia](https://xtibia.com/forum/uploads/monthly_2020_09/forum_logo.png.8eb8e91f2d964610995546c79457305e.png)](https://xtibia.com/)
+Support FORUM
+[![OTBR](https://forums.otserv.com.br/uploads/monthly_2020_05/otbr.png.98b530d6cf011021928158c5be19529f.png)](https://forums.otserv.com.br/)
